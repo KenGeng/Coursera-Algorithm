@@ -1,2 +1,2 @@
-javac $1.java
+javac $1.java -Xlint:unchecked
 java $1
